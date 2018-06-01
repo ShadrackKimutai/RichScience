@@ -1,10 +1,12 @@
-# Health Sciences Theme
+# Rich Science Theme
+Based on Health Sciences Theme
 
-An official theme for [OJS 3.1.1+](https://pkp.sfu.ca/ojs/) designed for health science journals or any journal that wants a clean, modern appearance.
 
-Current version: healthSciences v1.0.0
+Current version: RichScience v0.0.0 
 
-This theme was commissioned and is maintained by the [Public Knowledge Project](https://pkp.sfu.ca/). For all non-technical questions, please visit the [PKP Forum](https://forum.pkp.sfu.ca/).
+This Theme is based on Human Sciences. which was An official theme for [OJS 3.1.1+](https://pkp.sfu.ca/ojs/) designed for health science journals or any journal that wants a clean, modern appearance.
+
+
 
 ## Installation
 
@@ -26,6 +28,9 @@ healthSciences theme v1.0.0 is compatible with OJS 3.1.1.
 This theme was designed by Sophy Ouch (@sssoz) and built by Nate Wright (@NateWr) using [Bootstrap4](https://getbootstrap.com/).
 
 ## Changelog
+
+
+
 
 **healthSciences v1.0.0**  (2018-04-24)
 * Fix: Remove bullet points from feed block plugins
