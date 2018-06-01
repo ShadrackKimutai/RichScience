@@ -25,12 +25,11 @@ healthSciences theme v1.0.0 is compatible with OJS 3.1.1.
 
 ## Contribution
 
-This theme was designed by Sophy Ouch (@sssoz) and built by Nate Wright (@NateWr) using [Bootstrap4](https://getbootstrap.com/).
+This theme  is being modified by shadrack Kimutai (@shadrackkimutai) but the original designed by Sophy Ouch (@sssoz) and built by Nate Wright (@NateWr) using [Bootstrap4](https://getbootstrap.com/). all credit should go to them as my role here is just to paint the house not built it!!! :P
 
 ## Changelog
-
-
-
+**richScience v0.0.0** (2018-06-01)
+* Changed Name from Health Sciences to Rich Science
 
 **healthSciences v1.0.0**  (2018-04-24)
 * Fix: Remove bullet points from feed block plugins
